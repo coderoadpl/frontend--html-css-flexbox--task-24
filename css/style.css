@@ -1,0 +1,24 @@
+.square {
+    width: 100px;
+    height: 100px;
+}
+
+.hidden{
+    display: none;
+}
+
+.first {
+    background-color: black;
+
+    visibility: hidden;
+}
+
+.second {
+    background-color: red;
+}
+
+.third {
+    background-color: green;
+
+    opacity: 0.5;
+}
